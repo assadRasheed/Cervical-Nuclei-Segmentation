@@ -22,3 +22,5 @@ Use the plot_training_progress function to visualize the generator and discrimin
 Adjusting Model Architecture: You can modify the generator, discriminator, and SCGAN model architecture by editing the build_generator, build_discriminator, and SCGAN class.
 
 **Training Hyperparameters:** Modify the learning rate and other hyperparameters by adjusting the gen_optimizer and disc_optimizer in the build_and_compile_model function.
+**Dataset** Dataset can be accessed through the following link
+https://drive.google.com/file/d/1IcsBm_5ELedUzAQ9ARKFRCV5VdLPJYBc/view?usp=drive_link
